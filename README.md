@@ -1,2 +1,3 @@
-# tb5-datarefinement
-# tb5-datarefinement
+# 技術書典５、データリファインメントのサポートサイト
+
+READMEの更新は、後日させていただきます。
